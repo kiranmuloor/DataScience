@@ -1,0 +1,10 @@
+# xml2yolo
+label file converter: xml to yolo 
+Python 3 script to convert VOC-style xml files to txt files required for training YOLO detectors.
+
+ToDo:
+Change the classes as required by you in the file convert.py
+
+Usage: 
+$ python convert.py
+ 
