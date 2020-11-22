@@ -1,0 +1,9 @@
+HOW TO RUN: STEP BY STEP
+
+STEP 1 : Create a new environment: conda create -n video_to_images python==3.6.9
+STEP 2 : Activate the environment: conda activate video_to_images
+STEP 3 : Install the Libraries: 1. pip install opencv-python
+		                2. pip install jupyter notebook
+STEP 4 : Next adding the folder path ( Eg : C:\WH\video_to_images
+STEP 5 : Run JUPYTER NOTEBOOK
+ 
